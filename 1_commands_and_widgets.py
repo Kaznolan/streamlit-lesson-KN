@@ -7,8 +7,8 @@ st.write("---")
 
 
 ######### Learning Sections #########
-Display text
-Display data
+Display text;
+Display data;
 Display plots
 Optimize performance
 Display widgets 
